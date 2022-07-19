@@ -1,16 +1,16 @@
-# liquid_pull_refresh_package
+# Flutter Pull Down to Refresh Widget
 
-A new Flutter project.
+A simple Flutter application to handle Pull Down Refresh Method
 
-## Getting Started
+## Add Dependency
+```bash
+flutter pub add liquid_pull_to_refresh
+```
 
-This project is a starting point for a Flutter application.
+## Result
+<p>
+<img src="https://github.com/Vishwa-Karthik/Flutter-Pull-Down-Refresh/blob/master/refresh.gif" width=200 height=400 />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Reference
+Pub.dev: [Liquid Pull To Swipe Widget](https://pub.dev/packages/liquid_pull_to_refresh)
